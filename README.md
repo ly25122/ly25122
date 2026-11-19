@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**ly25122/ly25122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yao Liu 👋
 
-Here are some ideas to get you started:
+I'm an undergraduate student at Peking University, majoring in Theoretical and Applied Mechanics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in exploring artificial intelligence and developing a deeper understanding of modern machine learning methods.
+
+## 🔬 Research Interests
+
+- Machine Learning
+- Deep Learning
+
+## 💻 Selected Projects
+
+- **CNN-based Image Classification**  
+  Exploring convolutional neural networks and techniques for improving model generalization.
+
+- **Text Classification with Naive Bayes**  
+  Implementing probabilistic machine learning methods for text classification.
+
+- **Robotics and Dexterous Hand**  
+  Participating in modeling and data collection for robotic dexterous hand projects.
+
+## 🎓 Education
+
+**Peking University**  
+Undergraduate Student in Computer Science
+
+## 📫 Contact
+
+- GitHub: https://github.com/ly25122
+
